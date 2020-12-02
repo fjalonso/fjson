@@ -1,4 +1,5 @@
-[
+{
+  "aplicaciones": [
 {
 id: "app1",
 titulo: "App 1",
@@ -24,3 +25,4 @@ url: "https://app3.com",
 visibleEnApp: true
 }
 ]
+}
