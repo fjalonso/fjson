@@ -1,28 +1,28 @@
 {
-  "aplicaciones": [
-{
-id: "app1",
-titulo: "App 1",
-activo: true,
-orden: 3,
-url: "https://app1.com",
-visibleEnApp: true
-},
-{
-id: "app2",
-titulo: "App 2",
-activo: true,
-orden: 3,
-url: "https://app2.com",
-visibleEnApp: true
-},
-{
-id: "app3",
-titulo: "App 3",
-activo: true,
-orden: 4,
-url: "https://app3.com",
-visibleEnApp: true
-}
-]
+	"aplicaciones":[
+		{
+			"id": "app1",
+			"titulo": "App 1",
+			"activo": true,
+			"orden": 3,
+			"url": "https://app1.com"
+			"visibleEnApp": true
+		},
+		{
+			"id": "app2",
+			"titulo": "App 2",
+			"activo": true,
+			"orden": 3,
+			"url": "https://app2.com",
+			"visibleEnApp": true
+		},
+		{
+			"id": "app3",
+			"titulo": "App 3",
+			"activo": true,
+			"orden": 4,
+			"url": "https://app3.com",
+			"visibleEnApp": true
+		}
+	]
 }
