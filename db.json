@@ -5,7 +5,7 @@ id: "app1",
 titulo: "App 1",
 activo: true,
 orden: 3,
-url: "https://app1.com"
+url: "https://app1.com",
 visibleEnApp: true
 },
 {
